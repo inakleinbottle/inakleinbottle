@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **inakleinbottle/inakleinbottle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [RoughPy](https://github.com/datasig-ac-uk/RoughPy), DataSig's library for computational rough paths and data science. I'm also writing a book.
+- 🌱 I’m currently learning heterogeneous computing, CUDA, and FPGA programming
+- 📫 How to reach me: You can reach me at my personal email, sam@inakleinbottle.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I started programming as a hobby, and started learning Python in 2012. I trained as a mathematician, then pivoted to a research software engineer career in 2020.
